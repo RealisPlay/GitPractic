@@ -163,6 +163,18 @@ git reset –hard [commit]
 
 1. git checkout
 
+* Эта команда используется для переключения с одной ветки на другую.
+
+Пример:
+
+git checkout [branch name]
+
+* Эта команда создает новую ветку и также переключается на нее.
+
+Пример:
+
+git checkout -b [branch name]
+
 2. git merge
 
 3. git remote
