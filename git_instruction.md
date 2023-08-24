@@ -185,6 +185,12 @@ git merge [branch name]
 
 3. git remote
 
+Эта команда используется для подключения вашего локального репозитория к удаленному серверу.
+
+Пример:
+
+git remote add [variable name] [Remote Server Link]
+
 4. git push
 
 5. git pull
