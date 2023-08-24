@@ -160,3 +160,15 @@ git reset [commit]
 Пример:
 
 git reset –hard [commit]
+
+1. git checkout
+
+2. git merge
+
+3. git remote
+
+4. git push
+
+5. git pull
+
+6. git stash
