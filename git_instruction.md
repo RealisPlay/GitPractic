@@ -7,6 +7,11 @@ git config –global user.name “[name]”
 git config –global user.email “[email address]”
 
 2. git init
+Эта команда используется для запуска нового репозитория.
+
+Пример:
+
+git init [repository name]
 
 3. git clone
 
