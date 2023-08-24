@@ -219,4 +219,11 @@ git push [variable name] :[branch name]
 
 5. git pull
 
+
+Эта команда извлекает и объединяет изменения на удаленном сервере в ваш рабочий каталог.
+
+Пример:
+
+git pull [Repository Link] 
+
 6. git stash
