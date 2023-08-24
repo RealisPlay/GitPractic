@@ -38,6 +38,11 @@ git log –-oneline
 git log –-graph
 
 4. git show
+Эта команда показывает изменения метаданных и содержимого указанного коммита.
+
+Пример:
+
+git show [commit]
 
 5. git tag
 
