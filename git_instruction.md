@@ -177,6 +177,12 @@ git checkout -b [branch name]
 
 2. git merge
 
+Эта команда объединяет историю указанной ветки с текущей веткой.
+
+Пример:
+
+git merge [branch name]
+
 3. git remote
 
 4. git push
