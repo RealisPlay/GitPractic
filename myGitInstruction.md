@@ -213,5 +213,10 @@ git push –all [variable name]
 git push [variable name] :[branch name]
 
 18. git pull
+Эта команда извлекает и объединяет изменения на удаленном сервере в ваш рабочий каталог.
+
+Пример:
+
+git pull [Repository Link] 
 
 19. git stash
