@@ -129,6 +129,11 @@ git log –-oneline
 git log –-graph
 
 11. git show
+Эта команда показывает изменения метаданных и содержимого указанного коммита.
+
+Пример:
+
+git show [commit]
 
 12. git tag
 
