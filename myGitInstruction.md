@@ -188,6 +188,29 @@ git merge [branch name]
 git remote add [variable name] [Remote Server Link]
 
 17. git push
++ Эта команда отправляет зафиксированные изменения основной ветки в ваш удаленный репозиторий.
+
+Пример:
+
+git push [variable name] master 
+
++ Эта команда отправляет коммиты ветки в ваш удаленный репозиторий.
+
+Пример:
+
+git push [variable name] [branch] 
+
++ Эта команда помещает все ветки в ваш удаленный репозиторий.
+
+Пример:
+
+git push –all [variable name] 
+
++ Эта команда удаляет ветку в вашем удаленном репозитории.
+
+Пример:
+
+git push [variable name] :[branch name]
 
 18. git pull
 
