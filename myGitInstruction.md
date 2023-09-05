@@ -97,6 +97,11 @@ git reset –hard [commit]
 git status
 
 9. git rm
+Эта команда удаляет файл из вашего рабочего каталога и инициирует удаление.
+
+Пример:
+
+git rm [file]  
 
 10. git log
 
