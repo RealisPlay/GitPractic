@@ -88,3 +88,15 @@ git reset [commit]
 Пример:
 
 git reset –hard [commit]
+
+8. git status
+
+9. git rm
+
+10. git log
+
+11. git show
+
+12. git tag
+
+13. git branch
