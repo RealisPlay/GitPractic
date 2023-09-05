@@ -90,6 +90,11 @@ git reset [commit]
 git reset –hard [commit]
 
 8. git status
+Эта команда перечисляет все файлы, которые необходимо зафиксировать.
+
+Пример:
+
+git status
 
 9. git rm
 
