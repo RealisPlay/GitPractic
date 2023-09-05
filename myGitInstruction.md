@@ -159,3 +159,15 @@ git branch [branch name]
 Пример:
 
 git branch -d [branch name]
+
+14. git checkout
+
+15. git merge
+
+16. git remote
+
+17. git push
+
+18. git pull
+
+19. git stash
