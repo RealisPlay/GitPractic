@@ -181,6 +181,11 @@ git checkout -b [branch name]
 git merge [branch name]
 
 16. git remote
+Эта команда используется для подключения вашего локального репозитория к удаленному серверу.
+
+Пример:
+
+git remote add [variable name] [Remote Server Link]
 
 17. git push
 
